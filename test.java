@@ -4,5 +4,6 @@ public class test {
 
         System.out.println("pipitu");
         System.out.println("pipiwan");
+        System.out.println("p");
     }
 }
