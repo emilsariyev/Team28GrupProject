@@ -1,0 +1,4 @@
+public enum Ingredient {
+    BUNS, PATTIES, CHEESE, VEGETABLES, FRIES, OIL, SYRUP, CUPS,
+    COFFEE_BEANS, MILK, SUGAR 
+}
