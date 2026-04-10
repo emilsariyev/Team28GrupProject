@@ -13,6 +13,10 @@ public class Main extends Application {
 
     public static void main(String[] args) {
         launch(args);
+<<<<<<< HEAD
         System.out.println("test");
+=======
+        System.out.println("Application started successfully.");
+>>>>>>> Mahsun
     }
 }
